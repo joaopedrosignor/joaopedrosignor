@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm João Pedro, a Software Engineering student at FIAP. I'm passionate about games, music and technology. I got interested in programming in 2022, when I was still at school, and since then I have been into it more e and more.</p>
+<p align="left">I'm João Pedro, a Software Engineering student at FIAP. I'm passionate about games, music and technology. I got interested in programming in 2022, when I was still at school, and since then I have been into it more and more.</p>
 
 ###
 
