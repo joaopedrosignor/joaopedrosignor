@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning React and Tailwind<br>🎲 Fun fact: I played saxophone in the school orchestra for 6 years</p>
+<p align="left">✨ Creating bugs since 2022<br>🎲 Fun fact: I played saxophone in the school orchestra for 6 years</p>
 
 ###
 
